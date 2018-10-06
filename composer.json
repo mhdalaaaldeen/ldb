@@ -6,6 +6,8 @@
         {
             "name": "alaa",
             "email": "a@s.com"
+            "another-vendor/package": "1.*"
+
         }
     ],
     "require": {
