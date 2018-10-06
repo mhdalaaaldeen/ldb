@@ -1,0 +1,12 @@
+{
+    "name": "ldb/datatable",
+    "description": "asd",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alaa",
+            "email": "a@s.com"
+        }
+    ],
+    "require": {}
+}
