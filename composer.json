@@ -8,5 +8,8 @@
             "email": "a@s.com"
         }
     ],
-    "require": {}
+    "require": {
+        "minimum-stability": "dev",
+        "prefer-stable": true
+    }
 }
