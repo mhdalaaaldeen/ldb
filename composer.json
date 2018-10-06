@@ -6,12 +6,13 @@
         {
             "name": "alaa",
             "email": "a@s.com"
-            "another-vendor/package": "1.*"
 
         }
     ],
     "require": {
       "php": ">=5.0",
+      "another-vendor/package": "1.*"
+
     }
     
      "minimum-stability": "dev",
